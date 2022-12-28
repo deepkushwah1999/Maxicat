@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_logo_icon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logo_icon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_bg.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_bg.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_img.jpg.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_img.jpg"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/husnain/dev/rnProject/MixCat-main/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

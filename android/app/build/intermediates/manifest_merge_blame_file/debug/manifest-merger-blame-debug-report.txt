@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mixcat"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:2:2-64
+12-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:2:19-61
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/husnain/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/husnain/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:2-10:16
+16        android:name="com.mixcat.MainApplication"
+16-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:15-46
+17        android:allowBackup="false"
+17-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:152-179
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] /Users/husnain/.gradle/caches/transforms-3/f382564408e8806e991bcb7c984abfd6/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:80-114
+21        android:label="@string/app_name"
+21-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:47-79
+22        android:theme="@style/AppTheme"
+22-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:180-211
+23        android:usesCleartextTraffic="true" >
+23-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:3:116-151
+24        <activity
+24-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/debug/AndroidManifest.xml:11:9-111
+25            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+25-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/debug/AndroidManifest.xml:11:19-83
+26            android:exported="false" />
+26-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/debug/AndroidManifest.xml:11:84-108
+27        <activity
+27-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:3-9:14
+28            android:name="com.mixcat.MainActivity"
+28-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:13-41
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+29-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:75-184
+30            android:exported="true"
+30-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:260-283
+31            android:label="@string/app_name"
+31-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:42-74
+32            android:launchMode="singleTask"
+32-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:185-216
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:4:217-259
+34            <intent-filter>
+34-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:5:4-8:20
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:6:5-57
+35-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:6:13-54
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:7:5-65
+37-->/Users/husnain/dev/rnProject/MixCat-main/android/app/src/main/AndroidManifest.xml:7:15-62
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+42            android:name="com.imagepicker.ImagePickerProvider"
+42-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+43            android:authorities="com.mixcat.imagepickerprovider"
+43-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+44            android:exported="false"
+44-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+45            android:grantUriPermissions="true" >
+45-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+46            <meta-data
+46-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+47                android:name="android.support.FILE_PROVIDER_PATHS"
+47-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+48                android:resource="@xml/imagepicker_provider_paths" />
+48-->[:react-native-image-picker] /Users/husnain/dev/rnProject/MixCat-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+49        </provider>
+50    </application>
+51
+52</manifest>
